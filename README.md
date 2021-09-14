@@ -1,2 +1,4 @@
-# DLithe-Front-End
-DLithe Front End internship
+# DLithe Internship Project
+
+This Project was submitted by K. Varadaraj Kamath in fulfillment of the requirements for the Internship Certificate
+
